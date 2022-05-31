@@ -1,5 +1,41 @@
 body {
+
   width: 100%;
   height: 100%;
   margin: 0;
+  border: hidden;
+}
+header{
+  text-align: center;
+}
+figure{
+  text-align: center;
+  margin: auto;
+}
+nav {
+
+  padding-left: 10%;
+  padding-right: 10%;
+  
+}
+nav a{
+  background-color:rgb(129, 120, 120);
+}
+figcaption {
+  font-size: 12px;
+
+}
+#featured-property{
+  width: 800px;
+  text-align: center;
+  margin: auto;
+}
+#details div{
+  float:left; 
+  width: 25%;
+  background: rgb(111, 61, 158);
+  text-align: center;
+}
+div{
+  float:left;  
 }
